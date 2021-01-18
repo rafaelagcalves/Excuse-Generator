@@ -1,0 +1,21 @@
+body {
+	text-align: center;
+	margin-top: 15%;
+	color: white;
+	font-size: 30px;
+	font-family: 'Special Elite', cursive;
+	src: url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+	background-image: url("https://images.unsplash.com/photo-1608990678292-44658e517f7f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80");
+}
+
+button {
+	font-size: 25px;
+	font-family: 'Special Elite', cursive;
+	src: url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+	transition-duration: 0.4s;
+}
+
+button:hover {
+  background-color: #C7002B;
+  color: white;
+}
